@@ -9,4 +9,4 @@ install:
   - pip install sympy
   - pip install unittest
 script:
-  - python run
+  - python FiniteElements.py

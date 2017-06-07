@@ -19,6 +19,7 @@ import unittest
 import sympy
 
 
+
 class FiniteElements():
     ''' This class will perform finite element analysis on a specified grid. '''
 
